@@ -1,0 +1,236 @@
+transaction_id,submitted_date,builder_name,builder_email,department,vendor,item_name,quantity,unit_price_bdt,invoice_total_bdt,expected_unit_price_bdt,price_deviation_pct,estimated_overbilling_bdt,duplicate_possible,quantity_outlier,missing_document,invoice_mismatch,benchmark_missing,audit_risk_score,audit_level,suggested_action,query_message
+TX-1018,2026-06-01,Rahim Ahmed,rahim@example.com,Operations,Eastern Supplies,Printer Toner,2,7267.22,14534.44,4680.0,55.282478632478636,5174.4400000000005,False,False,True,False,False,72.0,High Risk,collect updated market quotations; attach missing supporting documents,"Dear Rahim Ahmed,
+
+Transaction TX-1018 for Printer Toner has been flagged as High Risk with an audit risk score of 72.0/100. Reason: unit price is 55.3% above expected benchmark; supporting documents are incomplete.
+
+Please perform a proper market survey and submit at least 2-3 vendor quotations, price justification, and corrected supporting documents before approval.
+
+Regards,
+Automated Audit Dashboard"
+TX-1052,2026-06-09,Nusrat Jahan,nusrat@example.com,Finance,Nexus IT,Laptop,8,122338.93,978711.44,88560.0,38.142423215898816,270231.43999999994,False,False,True,False,False,72.0,High Risk,collect updated market quotations; attach missing supporting documents,"Dear Nusrat Jahan,
+
+Transaction TX-1052 for Laptop has been flagged as High Risk with an audit risk score of 72.0/100. Reason: unit price is 38.1% above expected benchmark; supporting documents are incomplete.
+
+Please perform a proper market survey and submit at least 2-3 vendor quotations, price justification, and corrected supporting documents before approval.
+
+Regards,
+Automated Audit Dashboard"
+TX-1050,2026-06-05,Tanvir Hasan,tanvir@example.com,Finance,Alpha Traders,Server RAM 32GB,2,28156.49,56312.98,22140.0,27.17475158084915,12032.980000000003,False,False,True,False,False,72.0,High Risk,collect updated market quotations; attach missing supporting documents,"Dear Tanvir Hasan,
+
+Transaction TX-1050 for Server RAM 32GB has been flagged as High Risk with an audit risk score of 72.0/100. Reason: unit price is 27.2% above expected benchmark; supporting documents are incomplete.
+
+Please perform a proper market survey and submit at least 2-3 vendor quotations, price justification, and corrected supporting documents before approval.
+
+Regards,
+Automated Audit Dashboard"
+TX-1030,2026-06-17,Rahim Ahmed,rahim@example.com,Finance,Eastern Supplies,Network Switch,1,39151.51,39151.51,32100.000000000004,21.967320872274136,7051.509999999998,False,False,True,False,False,72.0,High Risk,collect updated market quotations; attach missing supporting documents,"Dear Rahim Ahmed,
+
+Transaction TX-1030 for Network Switch has been flagged as High Risk with an audit risk score of 72.0/100. Reason: unit price is 22.0% above expected benchmark; supporting documents are incomplete.
+
+Please perform a proper market survey and submit at least 2-3 vendor quotations, price justification, and corrected supporting documents before approval.
+
+Regards,
+Automated Audit Dashboard"
+TX-1055,2026-06-19,Nusrat Jahan,nusrat@example.com,Admin,Alpha Traders,Printer Toner,10,5633.28,56332.8,4680.0,20.369230769230764,9532.799999999997,False,False,True,False,False,72.0,High Risk,collect updated market quotations; attach missing supporting documents,"Dear Nusrat Jahan,
+
+Transaction TX-1055 for Printer Toner has been flagged as High Risk with an audit risk score of 72.0/100. Reason: unit price is 20.4% above expected benchmark; supporting documents are incomplete.
+
+Please perform a proper market survey and submit at least 2-3 vendor quotations, price justification, and corrected supporting documents before approval.
+
+Regards,
+Automated Audit Dashboard"
+TX-1040,2026-06-23,Nusrat Jahan,nusrat@example.com,IT,Nexus IT,Network Switch,4,36293.19,145172.76,32100.000000000004,13.062897196261677,16772.759999999995,False,False,True,False,False,72.0,High Risk,collect updated market quotations; attach missing supporting documents,"Dear Nusrat Jahan,
+
+Transaction TX-1040 for Network Switch has been flagged as High Risk with an audit risk score of 72.0/100. Reason: unit price is 13.1% above expected benchmark; supporting documents are incomplete.
+
+Please perform a proper market survey and submit at least 2-3 vendor quotations, price justification, and corrected supporting documents before approval.
+
+Regards,
+Automated Audit Dashboard"
+TX-1059,2026-06-15,Rahim Ahmed,rahim@example.com,Admin,MetroTech,Network Switch,2,35992.82,71985.64,32100.000000000004,12.127165109034255,7785.639999999992,False,False,True,False,False,72.0,High Risk,collect updated market quotations; attach missing supporting documents,"Dear Rahim Ahmed,
+
+Transaction TX-1059 for Network Switch has been flagged as High Risk with an audit risk score of 72.0/100. Reason: unit price is 12.1% above expected benchmark; supporting documents are incomplete.
+
+Please perform a proper market survey and submit at least 2-3 vendor quotations, price justification, and corrected supporting documents before approval.
+
+Regards,
+Automated Audit Dashboard"
+TX-1074,2026-06-21,Farhana Najnin,farhana@example.com,Finance,Nexus IT,Office Chair,1,11067.11,11067.11,9450.0,17.112275132275137,0.0,False,False,True,False,False,69.0,Needs Review,attach missing supporting documents,"Dear Farhana Najnin,
+
+Transaction TX-1074 for Office Chair has been flagged as Needs Review with an audit risk score of 69.0/100. Reason: supporting documents are incomplete.
+
+Please perform a proper market survey and submit at least 2-3 vendor quotations, price justification, and corrected supporting documents before approval.
+
+Regards,
+Automated Audit Dashboard"
+TX-1010,2026-06-08,Nusrat Jahan,nusrat@example.com,Operations,Alpha Traders,Office Chair,10,10462.5,104625.0,9450.0,10.714285714285714,0.0,True,False,True,False,False,67.7,Needs Review,verify possible duplicate invoice; attach missing supporting documents,"Dear Nusrat Jahan,
+
+Transaction TX-1010 for Office Chair has been flagged as Needs Review with an audit risk score of 67.7/100. Reason: a possible duplicate transaction was detected; supporting documents are incomplete.
+
+Please perform a proper market survey and submit at least 2-3 vendor quotations, price justification, and corrected supporting documents before approval.
+
+Regards,
+Automated Audit Dashboard"
+TX-1999,2026-06-11,Nusrat Jahan,nusrat@example.com,Operations,Alpha Traders,Office Chair,10,10462.5,104625.0,9450.0,10.714285714285714,0.0,True,False,True,False,False,67.7,Needs Review,verify possible duplicate invoice; attach missing supporting documents,"Dear Nusrat Jahan,
+
+Transaction TX-1999 for Office Chair has been flagged as Needs Review with an audit risk score of 67.7/100. Reason: a possible duplicate transaction was detected; supporting documents are incomplete.
+
+Please perform a proper market survey and submit at least 2-3 vendor quotations, price justification, and corrected supporting documents before approval.
+
+Regards,
+Automated Audit Dashboard"
+TX-1079,2026-06-24,Sadia Islam,sadia@example.com,Operations,MetroTech,Network Switch,4,35459.53,141838.12,32100.000000000004,10.465825545171322,0.0,False,False,True,False,False,64.3,Needs Review,attach missing supporting documents,"Dear Sadia Islam,
+
+Transaction TX-1079 for Network Switch has been flagged as Needs Review with an audit risk score of 64.3/100. Reason: supporting documents are incomplete.
+
+Please perform a proper market survey and submit at least 2-3 vendor quotations, price justification, and corrected supporting documents before approval.
+
+Regards,
+Automated Audit Dashboard"
+TX-1036,2026-06-25,Nusrat Jahan,nusrat@example.com,HR,MetroTech,Network Switch,8,35433.55,283468.4,32100.000000000004,10.384890965732083,0.0,False,False,True,False,False,63.9,Needs Review,attach missing supporting documents,"Dear Nusrat Jahan,
+
+Transaction TX-1036 for Network Switch has been flagged as Needs Review with an audit risk score of 63.9/100. Reason: supporting documents are incomplete.
+
+Please perform a proper market survey and submit at least 2-3 vendor quotations, price justification, and corrected supporting documents before approval.
+
+Regards,
+Automated Audit Dashboard"
+TX-1048,2026-06-14,Sadia Islam,sadia@example.com,HR,Prime Office Mart,Office Chair,4,10902.84,43611.36,9450.0,15.373968253968256,0.0,False,False,True,False,False,63.2,Needs Review,attach missing supporting documents,"Dear Sadia Islam,
+
+Transaction TX-1048 for Office Chair has been flagged as Needs Review with an audit risk score of 63.2/100. Reason: supporting documents are incomplete.
+
+Please perform a proper market survey and submit at least 2-3 vendor quotations, price justification, and corrected supporting documents before approval.
+
+Regards,
+Automated Audit Dashboard"
+TX-1061,2026-06-06,Rahim Ahmed,rahim@example.com,Admin,Eastern Supplies,Laptop,10,132833.93,1328339.3,88560.0,49.993145889792224,442739.29999999993,False,False,False,False,False,60.0,Needs Review,collect updated market quotations,"Dear Rahim Ahmed,
+
+Transaction TX-1061 for Laptop has been flagged as Needs Review with an audit risk score of 60.0/100. Reason: unit price is 50.0% above expected benchmark.
+
+Please perform a proper market survey and submit at least 2-3 vendor quotations, price justification, and corrected supporting documents before approval.
+
+Regards,
+Automated Audit Dashboard"
+TX-1039,2026-06-23,Tanvir Hasan,tanvir@example.com,Finance,MetroTech,Laptop,8,131210.53,1049684.24,88560.0,48.16003839205059,341204.24,False,False,False,False,False,60.0,Needs Review,collect updated market quotations,"Dear Tanvir Hasan,
+
+Transaction TX-1039 for Laptop has been flagged as Needs Review with an audit risk score of 60.0/100. Reason: unit price is 48.2% above expected benchmark.
+
+Please perform a proper market survey and submit at least 2-3 vendor quotations, price justification, and corrected supporting documents before approval.
+
+Regards,
+Automated Audit Dashboard"
+TX-1007,2026-06-20,Sadia Islam,sadia@example.com,IT,Eastern Supplies,Server RAM 32GB,2,32420.59,64841.18,22140.0,46.43446251129178,20561.18,False,False,False,False,False,60.0,Needs Review,collect updated market quotations,"Dear Sadia Islam,
+
+Transaction TX-1007 for Server RAM 32GB has been flagged as Needs Review with an audit risk score of 60.0/100. Reason: unit price is 46.4% above expected benchmark.
+
+Please perform a proper market survey and submit at least 2-3 vendor quotations, price justification, and corrected supporting documents before approval.
+
+Regards,
+Automated Audit Dashboard"
+TX-1034,2026-06-24,Nusrat Jahan,nusrat@example.com,Operations,MetroTech,Printer Toner,4,5600.99,22403.96,4680.0,19.6792735042735,3683.959999999999,False,False,False,False,False,60.0,Needs Review,collect updated market quotations,"Dear Nusrat Jahan,
+
+Transaction TX-1034 for Printer Toner has been flagged as Needs Review with an audit risk score of 60.0/100. Reason: unit price is 19.7% above expected benchmark.
+
+Please perform a proper market survey and submit at least 2-3 vendor quotations, price justification, and corrected supporting documents before approval.
+
+Regards,
+Automated Audit Dashboard"
+TX-1076,2026-06-05,Tanvir Hasan,tanvir@example.com,IT,Eastern Supplies,Laptop,1,100562.64,100562.64,88560.0,13.55311653116531,12002.64,False,False,False,False,False,60.0,Needs Review,collect updated market quotations,"Dear Tanvir Hasan,
+
+Transaction TX-1076 for Laptop has been flagged as Needs Review with an audit risk score of 60.0/100. Reason: unit price is 13.6% above expected benchmark.
+
+Please perform a proper market survey and submit at least 2-3 vendor quotations, price justification, and corrected supporting documents before approval.
+
+Regards,
+Automated Audit Dashboard"
+TX-1017,2026-06-11,Sadia Islam,sadia@example.com,Finance,Eastern Supplies,SSD 1TB,8,11821.54,94572.32,10920.0,8.255860805860813,0.0,False,False,True,False,False,53.3,Needs Review,attach missing supporting documents,"Dear Sadia Islam,
+
+Transaction TX-1017 for SSD 1TB has been flagged as Needs Review with an audit risk score of 53.3/100. Reason: supporting documents are incomplete.
+
+Please perform a proper market survey and submit at least 2-3 vendor quotations, price justification, and corrected supporting documents before approval.
+
+Regards,
+Automated Audit Dashboard"
+TX-1078,2026-06-24,Sadia Islam,sadia@example.com,Operations,Alpha Traders,Server RAM 32GB,1,23891.07,23891.07,22140.0,7.9090785907859065,0.0,False,False,True,False,False,51.5,Needs Review,attach missing supporting documents,"Dear Sadia Islam,
+
+Transaction TX-1078 for Server RAM 32GB has been flagged as Needs Review with an audit risk score of 51.5/100. Reason: supporting documents are incomplete.
+
+Please perform a proper market survey and submit at least 2-3 vendor quotations, price justification, and corrected supporting documents before approval.
+
+Regards,
+Automated Audit Dashboard"
+TX-1014,2026-06-14,Sadia Islam,sadia@example.com,Operations,Alpha Traders,Laptop,1,97357.08,97357.08,88560.0,9.933468834688348,0.0,False,False,False,False,False,49.7,Needs Review,no action required,"Dear Sadia Islam,
+
+Transaction TX-1014 for Laptop has been flagged as Needs Review with an audit risk score of 49.7/100. Reason: the transaction requires manual review.
+
+Please perform a proper market survey and submit at least 2-3 vendor quotations, price justification, and corrected supporting documents before approval.
+
+Regards,
+Automated Audit Dashboard"
+TX-1002,2026-06-10,Sadia Islam,sadia@example.com,Operations,Nexus IT,Laptop,3,97219.33,291657.99,88560.0,9.777924570912377,0.0,False,False,False,False,False,48.9,Needs Review,no action required,"Dear Sadia Islam,
+
+Transaction TX-1002 for Laptop has been flagged as Needs Review with an audit risk score of 48.9/100. Reason: the transaction requires manual review.
+
+Please perform a proper market survey and submit at least 2-3 vendor quotations, price justification, and corrected supporting documents before approval.
+
+Regards,
+Automated Audit Dashboard"
+TX-1046,2026-06-03,Farhana Najnin,farhana@example.com,Operations,Prime Office Mart,Printer Toner,8,5202.24,41617.92,4680.0,11.158974358974353,0.0,False,False,False,False,False,44.6,Pass,no action required,
+TX-1043,2026-06-08,Rahim Ahmed,rahim@example.com,HR,Prime Office Mart,Network Switch,2,34807.08,69614.16,32100.000000000004,8.433271028037376,0.0,False,False,False,False,False,42.2,Pass,no action required,
+TX-1009,2026-06-20,Tanvir Hasan,tanvir@example.com,Admin,Eastern Supplies,UPS 1200VA,5,17309.37,86546.85,16112.0,7.431541708043687,0.0,False,False,True,False,False,41.7,Pass,attach missing supporting documents,
+TX-1073,2026-06-14,Tanvir Hasan,tanvir@example.com,Admin,Nexus IT,UPS 1200VA,5,17611.66,88058.3,16112.0,9.307720953326712,0.0,False,False,False,False,False,37.2,Pass,no action required,
+TX-1008,2026-06-06,Sadia Islam,sadia@example.com,Admin,Eastern Supplies,UPS 1200VA,2,17482.48,34964.96,16112.0,8.505958291956302,0.0,False,False,False,False,False,34.0,Pass,no action required,
+TX-1019,2026-06-13,Farhana Najnin,farhana@example.com,Operations,Eastern Supplies,SSD 1TB,3,11663.38,34990.14,10920.0,6.80750915750915,0.0,False,False,False,False,False,34.0,Pass,no action required,
+TX-1000,2026-06-11,Tanvir Hasan,tanvir@example.com,IT,Nexus IT,Office Chair,4,10348.18,41392.72,9450.0,9.504550264550268,0.0,False,False,False,False,False,31.7,Pass,no action required,
+TX-1057,2026-06-24,Rahim Ahmed,rahim@example.com,IT,MetroTech,SSD 1TB,10,11613.16,116131.6,10920.0,6.347619047619046,0.0,False,False,False,False,False,31.7,Pass,no action required,
+TX-1011,2026-06-20,Farhana Najnin,farhana@example.com,Operations,Eastern Supplies,UPS 1200VA,1,16900.07,16900.07,16112.0,4.891199106256205,0.0,False,False,True,False,False,31.6,Pass,attach missing supporting documents,
+TX-1006,2026-06-04,Rahim Ahmed,rahim@example.com,Admin,Nexus IT,SSD 1TB,3,11608.86,34826.58,10920.0,6.308241758241763,0.0,False,False,False,False,False,31.5,Pass,no action required,
+TX-1069,2026-06-22,Tanvir Hasan,tanvir@example.com,Finance,Nexus IT,UPS 1200VA,10,17373.01,173730.1,16112.0,7.8265268123137925,0.0,False,False,False,False,False,31.3,Pass,no action required,
+TX-1062,2026-06-23,Rahim Ahmed,rahim@example.com,IT,Alpha Traders,UPS 1200VA,2,16855.02,33710.04,16112.0,4.611593843098315,0.0,False,False,True,False,False,30.4,Pass,attach missing supporting documents,
+TX-1027,2026-06-09,Sadia Islam,sadia@example.com,Operations,Alpha Traders,Laptop,1,93491.65,93491.65,88560.0,5.568710478771448,0.0,False,False,False,False,False,27.8,Pass,no action required,
+TX-1072,2026-06-22,Tanvir Hasan,tanvir@example.com,Admin,Nexus IT,Laptop,3,90954.64,272863.92,88560.0,2.7039747064137303,0.0,False,False,True,False,False,25.5,Pass,attach missing supporting documents,
+TX-1049,2026-06-14,Rahim Ahmed,rahim@example.com,Admin,Alpha Traders,Office Chair,4,9805.86,39223.44,9450.0,3.765714285714292,0.0,False,False,True,False,False,24.6,Pass,attach missing supporting documents,
+TX-1064,2026-06-20,Nusrat Jahan,nusrat@example.com,Operations,Nexus IT,SSD 1TB,35,10623.49,371822.15,10920.0,-2.715293040293042,0.0,False,True,True,False,False,24.0,Pass,attach missing supporting documents; justify unusual quantity,
+TX-1012,2026-06-12,Tanvir Hasan,tanvir@example.com,HR,Alpha Traders,Server RAM 32GB,4,21168.32,92630.85,22140.0,-4.388798554652214,0.0,False,True,False,True,False,24.0,Pass,justify unusual quantity; correct invoice total mismatch,
+TX-1056,2026-06-05,Sadia Islam,sadia@example.com,Admin,MetroTech,Router,4,14749.74,58998.96,13992.0,5.4155231560891925,0.0,False,False,False,False,False,21.7,Pass,no action required,
+TX-1044,2026-06-05,Sadia Islam,sadia@example.com,HR,MetroTech,Printer Toner,1,4931.58,4931.58,4680.0,5.375641025641023,0.0,False,False,False,False,False,21.5,Pass,no action required,
+TX-1070,2026-06-22,Sadia Islam,sadia@example.com,HR,Prime Office Mart,Office Chair,10,10053.85,100538.5,9450.0,6.3899470899470945,0.0,False,False,False,False,False,21.3,Pass,no action required,
+TX-1067,2026-06-16,Sadia Islam,sadia@example.com,HR,MetroTech,Router,3,14730.77,44192.31,13992.0,5.279945683247573,0.0,False,False,False,False,False,21.1,Pass,no action required,
+TX-1031,2026-06-12,Sadia Islam,sadia@example.com,Admin,MetroTech,Printer Toner,3,4898.89,14696.67,4680.0,4.677136752136759,0.0,False,False,False,False,False,18.7,Pass,no action required,
+TX-1045,2026-06-04,Tanvir Hasan,tanvir@example.com,Operations,Eastern Supplies,UPS 1200VA,10,16355.74,187997.17,16112.0,1.5127855014895715,0.0,False,False,False,True,False,18.1,Pass,correct invoice total mismatch,
+TX-1024,2026-06-08,Nusrat Jahan,nusrat@example.com,Finance,Alpha Traders,Router,5,14604.48,73022.4,13992.0,4.377358490566035,0.0,False,False,False,False,False,17.5,Pass,no action required,
+TX-1016,2026-06-08,Rahim Ahmed,rahim@example.com,Finance,Nexus IT,Laptop,8,91592.52,732740.16,88560.0,3.42425474254743,0.0,False,False,False,False,False,17.1,Pass,no action required,
+TX-1020,2026-06-08,Nusrat Jahan,nusrat@example.com,Operations,MetroTech,Office Chair,2,9563.67,19127.34,9450.0,1.2028571428571437,0.0,False,False,True,False,False,16.0,Pass,attach missing supporting documents,
+TX-1066,2026-06-10,Sadia Islam,sadia@example.com,HR,MetroTech,Printer Toner,8,4856.21,38849.68,4680.0,3.7651709401709406,0.0,False,False,False,False,False,15.1,Pass,no action required,
+TX-1032,2026-06-10,Farhana Najnin,farhana@example.com,Admin,Alpha Traders,Network Switch,2,32290.06,64580.12,32100.000000000004,0.5920872274143228,0.0,False,False,True,False,False,15.0,Pass,attach missing supporting documents,
+TX-1001,2026-06-18,Sadia Islam,sadia@example.com,Operations,Eastern Supplies,UPS 1200VA,10,16640.22,166402.2,16112.0,3.278426017874883,0.0,False,False,False,False,False,13.1,Pass,no action required,
+TX-1065,2026-06-09,Tanvir Hasan,tanvir@example.com,Finance,Prime Office Mart,Office Chair,1,9400.88,9400.88,9450.0,-0.5197883597883682,0.0,False,False,True,False,False,12.0,Pass,attach missing supporting documents,
+TX-1022,2026-06-25,Nusrat Jahan,nusrat@example.com,HR,Nexus IT,Laptop,5,87176.13,435880.65,88560.0,-1.5626355013550082,0.0,False,False,True,False,False,12.0,Pass,attach missing supporting documents,
+TX-1042,2026-06-10,Farhana Najnin,farhana@example.com,Finance,Nexus IT,UPS 1200VA,1,15816.85,15816.85,16112.0,-1.8318644488579918,0.0,False,False,True,False,False,12.0,Pass,attach missing supporting documents,
+TX-1005,2026-06-19,Sadia Islam,sadia@example.com,IT,MetroTech,Network Switch,10,31367.07,313670.7,32100.000000000004,-2.283271028037395,0.0,False,True,False,False,False,12.0,Pass,justify unusual quantity,
+TX-1053,2026-06-16,Farhana Najnin,farhana@example.com,IT,MetroTech,Office Chair,5,9138.68,45693.4,9450.0,-3.294391534391531,0.0,False,False,True,False,False,12.0,Pass,attach missing supporting documents,
+TX-1025,2026-06-11,Rahim Ahmed,rahim@example.com,HR,Nexus IT,Office Chair,35,9138.63,319852.05,9450.0,-3.2949206349206435,0.0,False,True,False,False,False,12.0,Pass,justify unusual quantity,
+TX-1051,2026-06-12,Farhana Najnin,farhana@example.com,Admin,Alpha Traders,Server RAM 32GB,2,21274.97,42549.94,22140.0,-3.907091237579037,0.0,False,False,True,False,False,12.0,Pass,attach missing supporting documents,
+TX-1021,2026-06-10,Nusrat Jahan,nusrat@example.com,Admin,Eastern Supplies,Laptop,1,81499.58,81499.58,88560.0,-7.972470641373078,0.0,False,False,True,False,False,12.0,Pass,attach missing supporting documents,
+TX-1038,2026-06-25,Sadia Islam,sadia@example.com,Admin,Alpha Traders,Laptop,1,79477.24,79477.24,88560.0,-10.256052393857267,0.0,False,False,True,False,False,12.0,Pass,attach missing supporting documents,
+TX-1013,2026-06-02,Tanvir Hasan,tanvir@example.com,Operations,Eastern Supplies,Network Switch,3,27339.99,82019.97,32100.000000000004,-14.82869158878505,0.0,False,False,True,False,False,12.0,Pass,attach missing supporting documents,
+TX-1063,2026-06-24,Rahim Ahmed,rahim@example.com,Admin,Prime Office Mart,SSD 1TB,2,9233.31,18466.62,10920.0,-15.445879120879125,0.0,False,False,True,False,False,12.0,Pass,attach missing supporting documents,
+TX-1077,2026-06-24,Tanvir Hasan,tanvir@example.com,Operations,Eastern Supplies,Printer Toner,3,4807.31,14421.93,4680.0,2.720299145299154,0.0,False,False,False,False,False,10.9,Pass,no action required,
+TX-1060,2026-06-20,Farhana Najnin,farhana@example.com,Admin,Eastern Supplies,Network Switch,3,32742.27,98226.81,32100.000000000004,2.0008411214953172,0.0,False,False,False,False,False,10.0,Pass,no action required,
+TX-1075,2026-06-19,Farhana Najnin,farhana@example.com,Finance,Alpha Traders,Printer Toner,10,4788.94,47889.4,4680.0,2.327777777777769,0.0,False,False,False,False,False,9.3,Pass,no action required,
+TX-1068,2026-06-09,Nusrat Jahan,nusrat@example.com,IT,Nexus IT,Laptop,5,89788.11,448940.55,88560.0,1.386754742547426,0.0,False,False,False,False,False,6.9,Pass,no action required,
+TX-1037,2026-06-13,Nusrat Jahan,nusrat@example.com,Admin,Prime Office Mart,Printer Toner,4,4754.52,19018.08,4680.0,1.5923076923077015,0.0,False,False,False,False,False,6.4,Pass,no action required,
+TX-1004,2026-06-16,Farhana Najnin,farhana@example.com,Operations,MetroTech,Office Chair,2,9464.31,18928.62,9450.0,0.15142857142856603,0.0,False,False,False,False,False,0.5,Pass,no action required,
+TX-1015,2026-06-25,Farhana Najnin,farhana@example.com,Admin,Alpha Traders,Laptop,1,88637.01,88637.01,88560.0,0.08695799457993988,0.0,False,False,False,False,False,0.4,Pass,no action required,
+TX-1058,2026-06-18,Sadia Islam,sadia@example.com,IT,Alpha Traders,Printer Toner,1,4662.13,4662.13,4680.0,-0.3818376068376045,0.0,False,False,False,False,False,0.0,Pass,no action required,
+TX-1047,2026-06-24,Rahim Ahmed,rahim@example.com,Admin,MetroTech,Laptop,4,86043.4,344173.6,88560.0,-2.841689250225842,0.0,False,False,False,False,False,0.0,Pass,no action required,
+TX-1071,2026-06-05,Tanvir Hasan,tanvir@example.com,Operations,Alpha Traders,Network Switch,4,30503.27,122013.08,32100.000000000004,-4.9742367601246205,0.0,False,False,False,False,False,0.0,Pass,no action required,
+TX-1003,2026-06-03,Sadia Islam,sadia@example.com,Finance,Prime Office Mart,Printer Toner,2,4371.45,8742.9,4680.0,-6.592948717948721,0.0,False,False,False,False,False,0.0,Pass,no action required,
+TX-1028,2026-06-25,Tanvir Hasan,tanvir@example.com,Finance,Eastern Supplies,Router,1,12975.37,12975.37,13992.0,-7.265794739851337,0.0,False,False,False,False,False,0.0,Pass,no action required,
+TX-1023,2026-06-12,Tanvir Hasan,tanvir@example.com,Admin,Alpha Traders,Laptop,2,81917.8,163835.6,88560.0,-7.500225835591685,0.0,False,False,False,False,False,0.0,Pass,no action required,
+TX-1035,2026-06-06,Farhana Najnin,farhana@example.com,IT,Eastern Supplies,Laptop,10,81784.13,817841.3,88560.0,-7.651163053297195,0.0,False,False,False,False,False,0.0,Pass,no action required,
+TX-1026,2026-06-19,Rahim Ahmed,rahim@example.com,Finance,Nexus IT,Laptop,4,81267.11,325068.44,88560.0,-8.23497064137308,0.0,False,False,False,False,False,0.0,Pass,no action required,
+TX-1041,2026-06-24,Nusrat Jahan,nusrat@example.com,IT,Alpha Traders,Network Switch,1,28350.21,28350.21,32100.000000000004,-11.681588785046742,0.0,False,False,False,False,False,0.0,Pass,no action required,
+TX-1029,2026-06-01,Sadia Islam,sadia@example.com,Finance,Eastern Supplies,Server RAM 32GB,2,19326.43,38652.86,22140.0,-12.708084914182475,0.0,False,False,False,False,False,0.0,Pass,no action required,
+TX-1033,2026-06-14,Rahim Ahmed,rahim@example.com,Operations,Nexus IT,Router,2,11928.62,23857.24,13992.0,-14.746855345911944,0.0,False,False,False,False,False,0.0,Pass,no action required,
+TX-1054,2026-06-07,Rahim Ahmed,rahim@example.com,Finance,Eastern Supplies,SSD 1TB,4,9218.96,36875.84,10920.0,-15.577289377289386,0.0,False,False,False,False,False,0.0,Pass,no action required,

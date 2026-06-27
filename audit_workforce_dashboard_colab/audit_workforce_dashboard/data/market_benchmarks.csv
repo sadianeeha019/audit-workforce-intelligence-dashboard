@@ -1,0 +1,9 @@
+item_name,global_market_price_bdt,local_market_price_bdt,tax_transport_margin_pct,allowed_deviation_pct,benchmark_source
+Laptop,78000,82000,8,12,Internal vendor survey + online market average
+Router,12500,13200,6,15,ICT equipment benchmark
+Network Switch,28000,30000,7,12,ICT equipment benchmark
+Office Chair,8500,9000,5,18,Furniture market survey
+Printer Toner,4200,4500,4,15,Office supplies benchmark
+SSD 1TB,9800,10400,5,12,Computer accessories survey
+Server RAM 32GB,19000,20500,8,12,Hardware supplier quote average
+UPS 1200VA,14500,15200,6,15,Power equipment benchmark

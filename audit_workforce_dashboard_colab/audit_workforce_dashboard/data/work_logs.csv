@@ -1,0 +1,241 @@
+date,employee_id,employee_name,department,tasks_assigned,tasks_completed,backlog,hours_worked,urgent_tasks,avg_complexity,rest_hours
+2026-05-25,E001,Ayesha Rahman,IT Automation,9,8,4,10.6,1,2.3,5.6
+2026-05-26,E001,Ayesha Rahman,IT Automation,9,9,4,10.1,0,2.2,4.4
+2026-05-27,E001,Ayesha Rahman,IT Automation,7,6,5,10.3,1,3.7,4.4
+2026-05-28,E001,Ayesha Rahman,IT Automation,10,9,6,12.0,2,3.4,4.2
+2026-05-29,E001,Ayesha Rahman,IT Automation,4,11,0,9.7,0,3.1,7.9
+2026-05-30,E001,Ayesha Rahman,IT Automation,6,4,2,10.5,2,2.4,5.0
+2026-05-31,E001,Ayesha Rahman,IT Automation,9,5,6,10.5,1,3.0,5.0
+2026-06-01,E001,Ayesha Rahman,IT Automation,10,8,8,12.0,3,3.6,3.5
+2026-06-02,E001,Ayesha Rahman,IT Automation,7,7,8,10.9,3,3.7,4.6
+2026-06-03,E001,Ayesha Rahman,IT Automation,8,7,9,9.5,2,3.7,7.8
+2026-06-04,E001,Ayesha Rahman,IT Automation,6,3,12,9.3,0,3.6,6.5
+2026-06-05,E001,Ayesha Rahman,IT Automation,11,10,13,12.0,0,2.9,3.9
+2026-06-06,E001,Ayesha Rahman,IT Automation,7,6,14,10.1,2,2.3,5.1
+2026-06-07,E001,Ayesha Rahman,IT Automation,12,5,21,11.6,2,3.3,3.9
+2026-06-08,E001,Ayesha Rahman,IT Automation,8,4,25,9.9,1,2.5,7.2
+2026-06-09,E001,Ayesha Rahman,IT Automation,7,8,24,9.9,0,2.8,5.7
+2026-06-10,E001,Ayesha Rahman,IT Automation,11,7,28,11.5,1,3.9,3.4
+2026-06-11,E001,Ayesha Rahman,IT Automation,9,7,30,12.0,1,3.3,3.0
+2026-06-12,E001,Ayesha Rahman,IT Automation,9,8,31,10.5,0,2.3,5.5
+2026-06-13,E001,Ayesha Rahman,IT Automation,9,6,34,8.4,0,1.7,8.7
+2026-06-14,E001,Ayesha Rahman,IT Automation,8,7,35,10.0,1,3.9,5.7
+2026-06-15,E001,Ayesha Rahman,IT Automation,8,7,36,11.0,1,3.1,5.3
+2026-06-16,E001,Ayesha Rahman,IT Automation,11,5,42,12.0,1,5.0,3.0
+2026-06-17,E001,Ayesha Rahman,IT Automation,9,9,42,10.7,1,3.0,6.1
+2026-06-18,E001,Ayesha Rahman,IT Automation,9,6,45,11.5,1,3.5,3.4
+2026-06-19,E001,Ayesha Rahman,IT Automation,9,7,47,10.7,1,3.4,4.4
+2026-06-20,E001,Ayesha Rahman,IT Automation,5,7,45,10.2,1,1.8,4.9
+2026-06-21,E001,Ayesha Rahman,IT Automation,7,4,48,9.7,2,1.0,3.9
+2026-06-22,E001,Ayesha Rahman,IT Automation,9,6,51,10.8,2,1.8,5.1
+2026-06-23,E001,Ayesha Rahman,IT Automation,8,9,50,11.6,2,3.3,5.1
+2026-05-25,E002,Mahin Khan,IT Automation,9,3,12,10.5,0,4.1,4.1
+2026-05-26,E002,Mahin Khan,IT Automation,5,7,10,10.6,3,3.1,3.8
+2026-05-27,E002,Mahin Khan,IT Automation,5,3,12,7.8,0,3.4,7.6
+2026-05-28,E002,Mahin Khan,IT Automation,4,7,9,8.9,3,1.1,8.8
+2026-05-29,E002,Mahin Khan,IT Automation,4,5,8,8.9,1,2.8,6.9
+2026-05-30,E002,Mahin Khan,IT Automation,3,6,5,9.2,1,3.5,6.2
+2026-05-31,E002,Mahin Khan,IT Automation,6,9,2,9.1,1,2.8,7.9
+2026-06-01,E002,Mahin Khan,IT Automation,3,3,2,9.0,1,2.9,6.9
+2026-06-02,E002,Mahin Khan,IT Automation,4,6,0,8.1,0,2.9,7.4
+2026-06-03,E002,Mahin Khan,IT Automation,6,2,4,9.5,0,2.9,7.4
+2026-06-04,E002,Mahin Khan,IT Automation,6,2,8,10.3,2,4.0,5.3
+2026-06-05,E002,Mahin Khan,IT Automation,1,2,7,7.1,1,2.8,8.2
+2026-06-06,E002,Mahin Khan,IT Automation,9,2,14,12.0,1,3.2,5.2
+2026-06-07,E002,Mahin Khan,IT Automation,6,8,12,8.5,1,1.7,7.9
+2026-06-08,E002,Mahin Khan,IT Automation,4,6,10,10.1,3,1.6,6.5
+2026-06-09,E002,Mahin Khan,IT Automation,8,3,15,10.8,1,2.5,4.4
+2026-06-10,E002,Mahin Khan,IT Automation,6,1,20,10.7,3,2.2,6.7
+2026-06-11,E002,Mahin Khan,IT Automation,6,3,23,9.7,0,2.0,6.1
+2026-06-12,E002,Mahin Khan,IT Automation,4,7,20,8.9,0,3.0,7.7
+2026-06-13,E002,Mahin Khan,IT Automation,6,3,23,11.7,3,2.7,5.3
+2026-06-14,E002,Mahin Khan,IT Automation,1,8,16,6.9,2,2.7,9.4
+2026-06-15,E002,Mahin Khan,IT Automation,5,4,17,10.6,3,2.1,4.9
+2026-06-16,E002,Mahin Khan,IT Automation,3,6,14,8.5,1,3.1,7.6
+2026-06-17,E002,Mahin Khan,IT Automation,7,1,20,10.8,3,3.1,3.4
+2026-06-18,E002,Mahin Khan,IT Automation,5,8,17,9.4,0,3.5,7.5
+2026-06-19,E002,Mahin Khan,IT Automation,6,7,16,7.9,0,2.7,8.1
+2026-06-20,E002,Mahin Khan,IT Automation,4,4,16,7.5,1,1.6,8.0
+2026-06-21,E002,Mahin Khan,IT Automation,4,0,20,10.4,3,3.6,6.3
+2026-06-22,E002,Mahin Khan,IT Automation,3,6,17,9.1,0,4.9,6.5
+2026-06-23,E002,Mahin Khan,IT Automation,5,6,16,10.1,0,3.5,6.4
+2026-05-25,E003,Rafi Ahmed,Finance,3,3,6,10.1,1,3.6,6.4
+2026-05-26,E003,Rafi Ahmed,Finance,4,4,6,9.4,0,2.8,8.9
+2026-05-27,E003,Rafi Ahmed,Finance,3,2,7,7.4,0,2.2,8.8
+2026-05-28,E003,Rafi Ahmed,Finance,7,3,11,9.5,0,2.2,5.5
+2026-05-29,E003,Rafi Ahmed,Finance,3,2,12,10.1,3,2.8,5.9
+2026-05-30,E003,Rafi Ahmed,Finance,6,1,17,9.2,0,3.0,8.0
+2026-05-31,E003,Rafi Ahmed,Finance,1,5,13,7.8,1,2.2,7.1
+2026-06-01,E003,Rafi Ahmed,Finance,0,1,12,9.1,2,2.3,6.6
+2026-06-02,E003,Rafi Ahmed,Finance,6,1,17,9.9,1,3.4,5.6
+2026-06-03,E003,Rafi Ahmed,Finance,4,4,17,9.7,1,3.1,5.5
+2026-06-04,E003,Rafi Ahmed,Finance,1,0,18,7.5,1,4.0,10.0
+2026-06-05,E003,Rafi Ahmed,Finance,5,5,18,9.8,0,4.4,6.6
+2026-06-06,E003,Rafi Ahmed,Finance,3,4,17,9.7,0,2.2,4.5
+2026-06-07,E003,Rafi Ahmed,Finance,7,2,22,11.7,3,3.7,3.9
+2026-06-08,E003,Rafi Ahmed,Finance,7,5,24,10.5,1,3.5,7.3
+2026-06-09,E003,Rafi Ahmed,Finance,5,2,27,10.1,0,2.0,4.2
+2026-06-10,E003,Rafi Ahmed,Finance,7,4,30,9.9,0,3.0,7.2
+2026-06-11,E003,Rafi Ahmed,Finance,5,4,31,9.2,1,2.0,6.9
+2026-06-12,E003,Rafi Ahmed,Finance,8,5,34,10.6,1,3.2,5.6
+2026-06-13,E003,Rafi Ahmed,Finance,2,3,33,6.8,0,2.4,8.7
+2026-06-14,E003,Rafi Ahmed,Finance,5,0,38,10.0,0,3.8,5.0
+2026-06-15,E003,Rafi Ahmed,Finance,5,2,41,9.1,0,2.1,6.5
+2026-06-16,E003,Rafi Ahmed,Finance,7,6,42,9.2,0,2.0,6.6
+2026-06-17,E003,Rafi Ahmed,Finance,4,2,44,9.2,2,3.2,7.4
+2026-06-18,E003,Rafi Ahmed,Finance,5,3,46,8.1,0,3.2,8.4
+2026-06-19,E003,Rafi Ahmed,Finance,7,1,52,8.7,2,1.3,7.3
+2026-06-20,E003,Rafi Ahmed,Finance,5,3,54,8.8,0,1.0,5.6
+2026-06-21,E003,Rafi Ahmed,Finance,2,3,53,8.0,2,2.4,8.3
+2026-06-22,E003,Rafi Ahmed,Finance,7,7,53,10.6,1,4.5,3.6
+2026-06-23,E003,Rafi Ahmed,Finance,4,4,53,11.3,0,3.3,3.8
+2026-05-25,E004,Nabila Islam,Operations,7,4,6,10.3,1,3.7,5.4
+2026-05-26,E004,Nabila Islam,Operations,6,5,7,8.3,1,3.3,7.0
+2026-05-27,E004,Nabila Islam,Operations,4,2,9,8.6,1,3.1,6.6
+2026-05-28,E004,Nabila Islam,Operations,3,4,8,9.0,2,2.5,6.7
+2026-05-29,E004,Nabila Islam,Operations,3,6,5,6.4,0,1.5,9.6
+2026-05-30,E004,Nabila Islam,Operations,5,4,6,9.6,1,3.0,5.5
+2026-05-31,E004,Nabila Islam,Operations,3,2,7,9.8,1,3.2,6.6
+2026-06-01,E004,Nabila Islam,Operations,0,1,6,6.6,0,2.3,9.8
+2026-06-02,E004,Nabila Islam,Operations,6,4,8,8.5,0,2.5,7.0
+2026-06-03,E004,Nabila Islam,Operations,2,5,5,9.2,3,3.1,5.2
+2026-06-04,E004,Nabila Islam,Operations,4,9,0,8.5,0,2.0,8.6
+2026-06-05,E004,Nabila Islam,Operations,4,5,0,9.6,3,3.4,5.4
+2026-06-06,E004,Nabila Islam,Operations,8,7,1,9.3,1,4.1,7.0
+2026-06-07,E004,Nabila Islam,Operations,4,5,0,8.8,1,2.5,5.3
+2026-06-08,E004,Nabila Islam,Operations,5,5,0,9.9,2,3.1,5.7
+2026-06-09,E004,Nabila Islam,Operations,8,8,0,11.0,1,3.2,6.2
+2026-06-10,E004,Nabila Islam,Operations,5,6,0,10.2,1,3.2,5.3
+2026-06-11,E004,Nabila Islam,Operations,8,5,3,10.2,0,2.7,8.7
+2026-06-12,E004,Nabila Islam,Operations,6,0,9,10.3,1,3.4,6.9
+2026-06-13,E004,Nabila Islam,Operations,4,7,6,10.8,1,2.6,5.2
+2026-06-14,E004,Nabila Islam,Operations,6,8,4,9.1,0,2.2,6.9
+2026-06-15,E004,Nabila Islam,Operations,3,4,3,10.2,3,2.4,5.8
+2026-06-16,E004,Nabila Islam,Operations,5,4,4,8.8,1,3.5,8.2
+2026-06-17,E004,Nabila Islam,Operations,8,4,8,10.6,1,1.9,4.9
+2026-06-18,E004,Nabila Islam,Operations,2,5,5,8.5,0,3.3,8.9
+2026-06-19,E004,Nabila Islam,Operations,6,4,7,10.8,2,2.6,3.7
+2026-06-20,E004,Nabila Islam,Operations,9,7,9,11.5,1,3.3,4.4
+2026-06-21,E004,Nabila Islam,Operations,6,6,9,9.2,1,3.0,7.2
+2026-06-22,E004,Nabila Islam,Operations,7,5,11,10.4,2,3.5,4.8
+2026-06-23,E004,Nabila Islam,Operations,6,2,15,9.2,0,4.2,8.5
+2026-05-25,E005,Tasnima Akter,Admin,6,8,0,11.1,3,2.7,4.6
+2026-05-26,E005,Tasnima Akter,Admin,9,8,1,8.8,0,3.5,7.6
+2026-05-27,E005,Tasnima Akter,Admin,4,8,0,9.8,0,3.8,6.0
+2026-05-28,E005,Tasnima Akter,Admin,7,8,0,10.0,1,2.6,5.0
+2026-05-29,E005,Tasnima Akter,Admin,7,9,0,11.6,3,2.2,3.7
+2026-05-30,E005,Tasnima Akter,Admin,9,6,3,11.1,3,2.3,4.4
+2026-05-31,E005,Tasnima Akter,Admin,7,8,2,9.7,0,2.8,3.9
+2026-06-01,E005,Tasnima Akter,Admin,6,10,0,10.6,2,3.1,5.3
+2026-06-02,E005,Tasnima Akter,Admin,9,7,2,11.2,0,2.6,5.4
+2026-06-03,E005,Tasnima Akter,Admin,8,5,5,11.3,0,3.4,4.8
+2026-06-04,E005,Tasnima Akter,Admin,8,5,8,9.0,0,1.7,6.8
+2026-06-05,E005,Tasnima Akter,Admin,11,13,6,12.0,1,2.5,3.8
+2026-06-06,E005,Tasnima Akter,Admin,8,8,6,9.7,0,3.1,7.7
+2026-06-07,E005,Tasnima Akter,Admin,5,9,2,8.5,0,2.8,7.5
+2026-06-08,E005,Tasnima Akter,Admin,10,8,4,12.0,0,4.0,3.5
+2026-06-09,E005,Tasnima Akter,Admin,10,10,4,12.0,3,3.9,3.4
+2026-06-10,E005,Tasnima Akter,Admin,10,5,9,9.8,0,1.9,4.9
+2026-06-11,E005,Tasnima Akter,Admin,10,10,9,10.7,2,2.8,5.5
+2026-06-12,E005,Tasnima Akter,Admin,9,8,10,12.0,3,2.7,5.0
+2026-06-13,E005,Tasnima Akter,Admin,9,8,11,10.1,0,2.4,6.1
+2026-06-14,E005,Tasnima Akter,Admin,8,11,8,8.8,1,2.8,8.1
+2026-06-15,E005,Tasnima Akter,Admin,8,6,10,10.2,0,4.1,4.5
+2026-06-16,E005,Tasnima Akter,Admin,9,8,11,11.8,0,3.0,6.5
+2026-06-17,E005,Tasnima Akter,Admin,4,6,9,9.7,1,3.0,5.8
+2026-06-18,E005,Tasnima Akter,Admin,8,10,7,10.8,0,3.1,4.9
+2026-06-19,E005,Tasnima Akter,Admin,7,9,5,10.6,2,3.1,3.9
+2026-06-20,E005,Tasnima Akter,Admin,4,5,4,8.8,1,2.7,8.7
+2026-06-21,E005,Tasnima Akter,Admin,7,6,5,11.6,0,5.0,4.8
+2026-06-22,E005,Tasnima Akter,Admin,8,5,8,9.7,1,2.9,6.4
+2026-06-23,E005,Tasnima Akter,Admin,5,6,7,9.8,1,3.1,5.8
+2026-05-25,E006,Hasan Mahmud,IT Support,6,2,7,9.6,3,3.0,6.7
+2026-05-26,E006,Hasan Mahmud,IT Support,5,5,7,10.2,0,2.9,4.8
+2026-05-27,E006,Hasan Mahmud,IT Support,4,5,6,8.5,1,4.6,8.4
+2026-05-28,E006,Hasan Mahmud,IT Support,7,1,12,9.0,0,1.9,6.6
+2026-05-29,E006,Hasan Mahmud,IT Support,4,2,14,7.8,0,2.4,5.9
+2026-05-30,E006,Hasan Mahmud,IT Support,5,5,14,8.8,0,2.6,7.9
+2026-05-31,E006,Hasan Mahmud,IT Support,0,1,13,5.8,0,1.2,8.9
+2026-06-01,E006,Hasan Mahmud,IT Support,4,6,11,9.4,0,3.3,7.5
+2026-06-02,E006,Hasan Mahmud,IT Support,6,5,12,10.4,1,3.4,6.1
+2026-06-03,E006,Hasan Mahmud,IT Support,2,1,13,9.6,3,3.1,7.2
+2026-06-04,E006,Hasan Mahmud,IT Support,5,5,13,10.3,0,4.2,6.7
+2026-06-05,E006,Hasan Mahmud,IT Support,8,2,19,10.3,0,3.8,6.1
+2026-06-06,E006,Hasan Mahmud,IT Support,1,3,17,9.9,2,3.8,6.9
+2026-06-07,E006,Hasan Mahmud,IT Support,5,2,20,9.5,0,2.5,6.5
+2026-06-08,E006,Hasan Mahmud,IT Support,8,3,25,11.2,1,3.1,5.2
+2026-06-09,E006,Hasan Mahmud,IT Support,4,3,26,9.9,2,2.3,5.4
+2026-06-10,E006,Hasan Mahmud,IT Support,6,7,25,10.0,1,2.7,6.6
+2026-06-11,E006,Hasan Mahmud,IT Support,5,2,28,11.0,3,4.3,5.2
+2026-06-12,E006,Hasan Mahmud,IT Support,7,0,35,9.9,0,3.6,5.8
+2026-06-13,E006,Hasan Mahmud,IT Support,2,3,34,9.5,1,4.6,6.3
+2026-06-14,E006,Hasan Mahmud,IT Support,4,3,35,9.4,0,3.2,8.2
+2026-06-15,E006,Hasan Mahmud,IT Support,3,1,37,8.6,1,2.2,9.5
+2026-06-16,E006,Hasan Mahmud,IT Support,6,5,38,8.1,0,1.0,6.7
+2026-06-17,E006,Hasan Mahmud,IT Support,0,3,35,8.1,1,2.1,8.6
+2026-06-18,E006,Hasan Mahmud,IT Support,5,5,35,10.2,2,2.8,7.3
+2026-06-19,E006,Hasan Mahmud,IT Support,7,2,40,10.9,3,2.6,6.7
+2026-06-20,E006,Hasan Mahmud,IT Support,5,5,40,9.9,3,1.7,5.4
+2026-06-21,E006,Hasan Mahmud,IT Support,1,1,40,8.4,1,3.7,7.2
+2026-06-22,E006,Hasan Mahmud,IT Support,8,4,44,10.8,1,5.0,6.0
+2026-06-23,E006,Hasan Mahmud,IT Support,5,4,45,8.5,1,2.6,5.2
+2026-05-25,E007,Mim Chowdhury,HR,6,8,0,10.2,1,2.8,7.1
+2026-05-26,E007,Mim Chowdhury,HR,8,10,0,11.2,3,3.4,5.3
+2026-05-27,E007,Mim Chowdhury,HR,7,6,1,9.4,2,3.7,5.7
+2026-05-28,E007,Mim Chowdhury,HR,7,7,1,11.0,1,2.1,3.8
+2026-05-29,E007,Mim Chowdhury,HR,9,3,7,9.2,0,3.3,6.8
+2026-05-30,E007,Mim Chowdhury,HR,8,8,7,11.7,3,3.1,3.0
+2026-05-31,E007,Mim Chowdhury,HR,10,1,16,9.8,1,2.9,6.1
+2026-06-01,E007,Mim Chowdhury,HR,10,4,22,10.5,1,3.3,6.2
+2026-06-02,E007,Mim Chowdhury,HR,10,5,27,11.9,0,1.5,3.5
+2026-06-03,E007,Mim Chowdhury,HR,7,8,26,10.4,0,1.9,5.9
+2026-06-04,E007,Mim Chowdhury,HR,7,6,27,10.1,0,3.6,5.2
+2026-06-05,E007,Mim Chowdhury,HR,7,8,26,11.4,0,2.7,6.2
+2026-06-06,E007,Mim Chowdhury,HR,10,9,27,12.0,0,4.8,3.0
+2026-06-07,E007,Mim Chowdhury,HR,8,6,29,10.3,0,2.8,4.3
+2026-06-08,E007,Mim Chowdhury,HR,8,5,32,10.7,0,3.7,4.6
+2026-06-09,E007,Mim Chowdhury,HR,7,5,34,8.7,1,2.3,7.1
+2026-06-10,E007,Mim Chowdhury,HR,7,6,35,10.3,0,2.0,6.4
+2026-06-11,E007,Mim Chowdhury,HR,8,4,39,11.6,3,4.2,4.1
+2026-06-12,E007,Mim Chowdhury,HR,12,10,41,11.5,1,2.5,4.0
+2026-06-13,E007,Mim Chowdhury,HR,7,6,42,11.3,3,4.2,3.0
+2026-06-14,E007,Mim Chowdhury,HR,8,10,40,10.1,1,3.8,6.8
+2026-06-15,E007,Mim Chowdhury,HR,8,8,40,9.5,1,3.0,7.9
+2026-06-16,E007,Mim Chowdhury,HR,5,3,42,9.7,1,3.9,8.6
+2026-06-17,E007,Mim Chowdhury,HR,7,6,43,9.0,0,4.7,7.4
+2026-06-18,E007,Mim Chowdhury,HR,11,7,47,11.4,0,3.1,3.8
+2026-06-19,E007,Mim Chowdhury,HR,6,8,45,9.8,1,1.9,6.0
+2026-06-20,E007,Mim Chowdhury,HR,6,6,45,9.7,2,2.1,7.4
+2026-06-21,E007,Mim Chowdhury,HR,8,4,49,9.7,1,3.6,6.9
+2026-06-22,E007,Mim Chowdhury,HR,6,9,46,9.7,0,2.8,8.4
+2026-06-23,E007,Mim Chowdhury,HR,7,10,43,9.8,0,3.1,5.7
+2026-05-25,E008,Sajid Karim,Procurement,4,3,4,10.0,1,2.4,6.3
+2026-05-26,E008,Sajid Karim,Procurement,4,4,4,8.9,2,1.0,7.3
+2026-05-27,E008,Sajid Karim,Procurement,7,9,2,8.9,2,2.9,6.5
+2026-05-28,E008,Sajid Karim,Procurement,9,7,4,9.7,0,3.8,4.3
+2026-05-29,E008,Sajid Karim,Procurement,6,8,2,10.4,0,2.3,5.9
+2026-05-30,E008,Sajid Karim,Procurement,9,7,4,12.0,3,2.9,4.2
+2026-05-31,E008,Sajid Karim,Procurement,4,5,3,7.9,1,3.3,8.8
+2026-06-01,E008,Sajid Karim,Procurement,6,6,3,8.6,0,1.9,8.1
+2026-06-02,E008,Sajid Karim,Procurement,9,8,4,11.8,3,2.7,5.0
+2026-06-03,E008,Sajid Karim,Procurement,5,5,4,7.9,0,2.5,7.9
+2026-06-04,E008,Sajid Karim,Procurement,9,3,10,11.5,2,2.8,4.5
+2026-06-05,E008,Sajid Karim,Procurement,5,4,11,9.8,0,3.0,8.4
+2026-06-06,E008,Sajid Karim,Procurement,8,9,10,10.9,3,3.4,5.2
+2026-06-07,E008,Sajid Karim,Procurement,4,2,12,8.5,1,3.8,8.0
+2026-06-08,E008,Sajid Karim,Procurement,5,4,13,9.6,1,2.4,5.9
+2026-06-09,E008,Sajid Karim,Procurement,8,7,14,10.0,1,4.3,6.1
+2026-06-10,E008,Sajid Karim,Procurement,10,9,15,11.8,0,2.8,3.7
+2026-06-11,E008,Sajid Karim,Procurement,8,6,17,10.2,0,2.7,6.1
+2026-06-12,E008,Sajid Karim,Procurement,7,7,17,12.0,0,3.4,5.8
+2026-06-13,E008,Sajid Karim,Procurement,8,5,20,11.6,3,3.5,3.6
+2026-06-14,E008,Sajid Karim,Procurement,10,7,23,12.0,1,1.1,3.6
+2026-06-15,E008,Sajid Karim,Procurement,10,4,29,12.0,3,2.3,4.0
+2026-06-16,E008,Sajid Karim,Procurement,8,9,28,10.3,0,3.8,5.9
+2026-06-17,E008,Sajid Karim,Procurement,5,8,25,9.9,2,1.1,7.6
+2026-06-18,E008,Sajid Karim,Procurement,8,6,27,9.9,1,2.9,6.6
+2026-06-19,E008,Sajid Karim,Procurement,10,8,29,10.9,1,2.7,6.7
+2026-06-20,E008,Sajid Karim,Procurement,8,3,34,12.0,0,3.1,5.1
+2026-06-21,E008,Sajid Karim,Procurement,7,10,31,10.3,2,4.0,5.5
+2026-06-22,E008,Sajid Karim,Procurement,8,7,32,9.2,1,2.9,6.7
+2026-06-23,E008,Sajid Karim,Procurement,8,6,34,11.4,2,1.7,4.2
